@@ -82,7 +82,7 @@ target/
 /model/
 
 # Exclude report files source control by default (usually tracked separately)
-/model/
+/reports/
 
 # Mac OS-specific storage files
 .DS_Store
