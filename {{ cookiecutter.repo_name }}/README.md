@@ -62,4 +62,4 @@ Project Organization
 
 --------
 
-<p><small>Project based on <a target="_blank" href="https://drivendata.github.io/cookiecutter-data-science/">IKNL's Cookiecutter template for Data Science</a>.</small></p>
+<p><small>Project based on <a target="_blank" href="https://github.com/arturomoncadatorres/cookiecutter-data-science-iknl">IKNL's Cookiecutter template for Data Science</a>.</small></p>
