@@ -30,6 +30,7 @@ This is a Cookiecutter template for Data Science projects at IKNL. It is based o
    cookiecutter https://github.com/arturomoncadatorres/cookiecutter-data-science-iknl
    ```
 1. Fill in the required questions (pretty straightforward).
+1. Start tracking your project with Git (optional, but much recommended) 
 1. DONE!
 
 
