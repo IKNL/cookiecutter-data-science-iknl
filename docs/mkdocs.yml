@@ -1,8 +1,8 @@
-site_name: Cookiecutter Data Science
-site_description: A project template and directory structure for Python data science projects.
+site_name: Cookiecutter Data Science at IKNL
+site_description: Cookiecutter template for Data Science projects at IKNL.
 site_favicon: favicon.ico
-repo_url: https://github.com/drivendata/cookiecutter-data-science
-copyright: Project maintained by the friendly folks at <a target=_blanks href="https://www.drivendata.org">DrivenData</a>.
+repo_url: https://github.com/arturomoncadatorres/cookiecutter-data-science-iknl
+copyright: Originally based on the template by Sven van der Burg.
 google_analytics: ['UA-54096005-4', 'auto']
 theme: cinder
 extra_css:
