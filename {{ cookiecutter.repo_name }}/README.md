@@ -29,6 +29,7 @@ Project Organization
     │
     ├── reports            <- Generated analysis as HTML, PDF, LaTeX, etc.
     │   └── documents      <- Articles, written reports, etc.
+    │      └── paper       <- LaTeX template for a paper
     │   └── figures        <- Generated graphics and figures to be used in reporting
     │   └── posters        <- Typically for conferences
     │   └── presentations  <- Usually PowerPoints (and their corresponding PDF)
