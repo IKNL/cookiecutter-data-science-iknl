@@ -56,10 +56,15 @@ The directory structure of your new project looks like this:
 ├── references         <- Data dictionaries, manuals, and all other explanatory materials.
 │
 ├── reports            <- Generated analysis as HTML, PDF, LaTeX, etc.
-│   └── figures        <- Generated graphics and figures to be used in reporting
+│   └── documents      <- Articles, written reports, etc.
+│   └── figures        <- Generated graphics and figures to be used in reporting
+│   └── posters        <- Typically for conferences
+│   └── presentations  <- Usually PowerPoints (and their corresponding PDF)
 │
 ├── requirements.txt   <- The requirements file for reproducing the analysis environment, e.g.
 │                         generated with `pip freeze > requirements.txt`
+│
+├── results            <- Intermediate/preliminary results (figures, variables, etc.).
 │
 ├── src                <- Source code for use in this project.
 │   ├── __init__.py    <- Makes src a Python module
