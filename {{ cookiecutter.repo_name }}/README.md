@@ -1,3 +1,5 @@
+<img src="https://github.com/IKNL/guidelines/blob/master/resources/logos/iknl_nl.png?raw=true" width=200 align="right">
+
 {{cookiecutter.project_name}}
 ==============================
 
@@ -26,12 +28,17 @@ Project Organization
     ├── references         <- Data dictionaries, manuals, and all other explanatory materials.
     │
     ├── reports            <- Generated analysis as HTML, PDF, LaTeX, etc.
+    │   └── documents      <- Articles, written reports, etc.
     │   └── figures        <- Generated graphics and figures to be used in reporting
+    │   └── posters        <- Typically for conferences
+    │   └── presentations  <- Usually PowerPoints (and their corresponding PDF)
     │
     ├── requirements.txt   <- The requirements file for reproducing the analysis environment, e.g.
     │                         generated with `pip freeze > requirements.txt`
     │
-    ├── setup.py           <- makes project pip installable (pip install -e .) so src can be imported
+    ├── results            <- Intermediate/preliminary results (figures, variables, etc.).
+    │
+    ├── setup.py           <- Makes project pip installable (pip install -e .) so src can be imported
     ├── src                <- Source code for use in this project.
     │   ├── __init__.py    <- Makes src a Python module
     │   │
@@ -54,4 +61,4 @@ Project Organization
 
 --------
 
-<p><small>Project based on the <a target="_blank" href="https://drivendata.github.io/cookiecutter-data-science/">cookiecutter data science project template</a>. #cookiecutterdatascience</small></p>
+<p><small>Project based on <a target="_blank" href="https://drivendata.github.io/cookiecutter-data-science/">IKNL's Cookiecutter template for Data Science</a>.</small></p>

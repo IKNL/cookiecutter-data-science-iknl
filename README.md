@@ -1,10 +1,8 @@
-# Cookiecutter Data Science
+<img src="https://github.com/IKNL/guidelines/blob/master/resources/logos/iknl_nl.png?raw=true" width=200 align="right">
 
-_A logical, reasonably standardized, but flexible project structure for doing and sharing data science work._
+# Cookiecutter Data Science at IKNL
 
-
-#### [Project homepage](http://drivendata.github.io/cookiecutter-data-science/)
-
+This is a Cookiecutter template for Data Science projects at IKNL. It is based on the [template by Sven van der Burg](https://github.com/svenvanderburg/cookiecutter-data-science) (you can see the [original project's homepage here](http://drivendata.github.io/cookiecutter-data-science/)).
 
 ### Requirements to use the cookiecutter template:
 -----------
@@ -35,7 +33,7 @@ $ conda install cookiecutter
 ### The resulting directory structure
 ------------
 
-The directory structure of your new project looks like this: 
+The directory structure of your new project looks like this:
 
 ```
 ├── LICENSE
@@ -82,10 +80,6 @@ The directory structure of your new project looks like this:
 │
 └── tox.ini            <- tox file with settings for running tox; see tox.testrun.org
 ```
-
-## Contributing
-
-We welcome contributions! [See the docs for guidelines](https://drivendata.github.io/cookiecutter-data-science/#contributing).
 
 ### Installing development requirements
 ------------
