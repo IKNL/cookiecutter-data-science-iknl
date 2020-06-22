@@ -8,30 +8,30 @@ This is a Cookiecutter template for Data Science projects at IKNL. It is based o
 -----------
 
 1. Create a new environment (for example, using [conda](https://docs.conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html#creating-an-environment-with-commands)). Make sure that it uses Python 2.7 or >=3.5 (much, much more preferred)
-1. Install [Cookiecutter package](http://cookiecutter.readthedocs.org/en/latest/installation.html) >= 1.4.0.
+2. Install [Cookiecutter package](http://cookiecutter.readthedocs.org/en/latest/installation.html) >= 1.4.0.
 
-  Using conda:
+Using conda:
 
-  ``` bash
-  $ conda config --add channels conda-forge
-  $ conda install cookiecutter
-  ```
+``` bash
+$ conda config --add channels conda-forge
+$ conda install cookiecutter
+```
 
-  or
+or
 
-  Using pip:
-  ``` bash
-  $ pip install cookiecutter
-  ```
-1. Open a command promp (With admin rights) and go to the directory where your project will be created.
-1. Then, type
+Using pip:
+``` bash
+$ pip install cookiecutter
+```
+3. Open a command prompg (with admin rights) and go to the directory where your project will be created.
+4. Then, type
 
    ``` bash
    cookiecutter https://github.com/arturomoncadatorres/cookiecutter-data-science-iknl
    ```
-1. Fill in the required questions (pretty straightforward).
-1. Start tracking your project with Git (optional, but much recommended) 
-1. DONE!
+5. Fill in the required questions (pretty straightforward).
+6. Start tracking your project with Git (optional, but much recommended)
+7. DONE!
 
 
 
