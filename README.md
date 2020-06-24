@@ -23,7 +23,7 @@ Using pip:
 ``` bash
 $ pip install cookiecutter
 ```
-3. Open a command prompg (with admin rights) and go to the directory where your project will be created.
+3. Open a command prompt (with admin rights) and go to the directory where your project will be created.
 4. Then, type
 
    ``` bash
@@ -33,7 +33,14 @@ $ pip install cookiecutter
 6. Start tracking your project with Git (optional, but much recommended)
 7. DONE!
 
+#### Bonus
+To easily link all your scripts in `./src/` with your notebooks (i.e., make them findable), open a command prompt in your project's root and type
 
+``` bash
+pip3 install --editable .
+```
+
+This way, all your scripts in the `./src` folder will be easily importable as `from src.funct import function`.
 
 ### The resulting directory structure
 ------------
@@ -101,3 +108,8 @@ The directory structure of your new project looks like this:
 ------------
 
     py.test tests
+
+### Resources
+------------
+- [Original project's homepage](http://drivendata.github.io/cookiecutter-data-science/)
+- [Tips and tricks for Cookiecutter for Data Science](https://medium.com/@rrfd/cookiecutter-data-science-organize-your-projects-atom-and-jupyter-2be7862f487e)
