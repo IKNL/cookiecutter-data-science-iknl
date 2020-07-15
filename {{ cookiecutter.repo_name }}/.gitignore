@@ -75,8 +75,10 @@ target/
 # Jupyter NB Checkpoints
 .ipynb_checkpoints/
 
-# Exclude data from source control by default (due to privacy issues)
-/data/
+# Exclude data from source control by default (due to privacy issues),
+# but keep the data README.
+/data/*
+!/data/README.md
 
 # Exclude model files source control by default (usually very large)
 /model/
