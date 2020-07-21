@@ -27,7 +27,7 @@ Project Organization
     │
     ├── references         <- Data dictionaries, manuals, and all other explanatory materials.
     │
-    ├── reports            <- Generated analysis as HTML, PDF, LaTeX, etc.
+    ├── dissemination      <- Generated analysis as HTML, PDF, LaTeX, etc.
     │   └── documents      <- Articles, written reports, etc.
     │      └── paper       <- LaTeX template for a paper
     │   └── figures        <- Generated graphics and figures to be used in reporting
