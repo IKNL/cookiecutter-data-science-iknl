@@ -27,7 +27,7 @@ $ pip install cookiecutter
 4. Then, type
 
    ``` bash
-   cookiecutter https://github.com/arturomoncadatorres/cookiecutter-data-science-iknl
+   cookiecutter https://github.com/iknl/cookiecutter-data-science-iknl
    ```
 5. Fill in the required questions (pretty straightforward).
 6. Start tracking your project with Git (optional, but much recommended)
