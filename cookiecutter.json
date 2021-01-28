@@ -6,5 +6,5 @@
     "open_source_license": ["MIT", "Apache Software License 2.0", "GNU GPL v3.0", "BSD-3-Clause", "No license file"],
 	"python_interpreter": ["python3", "python"],
 	"s3_bucket": "[OPTIONAL] Bucket for syncing data (do not include 's3://'). Leave empty if unknown.",
-	"aws_profile": "default"
+	"aws_profile": "default. Leave empty if unknown."
 }
