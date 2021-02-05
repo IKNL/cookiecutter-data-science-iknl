@@ -1,7 +1,6 @@
 <img src="https://github.com/IKNL/guidelines/blob/master/resources/logos/iknl_nl.png?raw=true" width=200 align="right">
 
 # Data description
-==============================
 
 In this README, we provide a description of the data used for this project.
 
