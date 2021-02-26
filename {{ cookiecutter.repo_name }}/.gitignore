@@ -83,8 +83,11 @@ target/
 # Exclude model files source control by default (usually very large)
 /model/
 
+# Exclude results files source control by default (can get quite large)
+/results/
+
 # Exclude report files source control by default (usually tracked separately)
-/reports/
+/dissemination/
 
 # Mac OS-specific storage files
 .DS_Store
