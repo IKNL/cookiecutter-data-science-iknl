@@ -55,7 +55,8 @@ The directory structure of your new project looks like this:
 │   ├── external       <- Data from third party sources.
 │   ├── interim        <- Intermediate data that has been transformed.
 │   ├── processed      <- The final, canonical data sets for modeling.
-│   └── raw            <- The original, immutable data dump.
+│   ├── raw            <- The original, immutable data dump.
+│   └── README.md      <- README file with a description of the data.
 │
 ├── docs               <- A default Sphinx project; see sphinx-doc.org for details
 │
